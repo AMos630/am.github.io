@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "lemon's blog"
+name: "Amos的花园"  
 # Short bio or description (displayed in the header)
-description: "个人技术公众号：程序员柠檬  分享编程资源 | 学习路线"
+description: "你若能信，在信的人，凡事都能。"  
 
 #
 # Flags below are optional
@@ -19,15 +19,15 @@ favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/fa
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
-navigation:
-  - name: 首页
-    url: /
-  - name: 关于
-    url: /about
-  - name: 归档
-    url: /archive
-  - name: 标签
-    url: /tags
+navigation:  
+  - name: 首页  
+    url: /  
+  - name: 关于  
+    url: /about  
+  - name: 归档  
+    url: /archive  
+  - name: 标签  
+    url: /tags  
 
 # Pagination
 paginate: 8
