@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Amos的花园"  
+name: "Amos的花园"                                      
 # Short bio or description (displayed in the header)
-description: "你若能信，在信的人，凡事都能。"  
+description: "你若能信，在信的人，凡事都能。"                                      
 
 #
 # Flags below are optional
@@ -19,34 +19,34 @@ favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/fa
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
-navigation:  
-  - name: 首页  
-    url: /  
-  - name: 关于  
-    url: /about  
-  - name: 归档  
-    url: /archive  
-  - name: 标签  
-    url: /tags  
+navigation:                                      
+  - name: 首页                                      
+    url: /                                      
+  - name: 关于                                      
+    url: /about                                      
+  - name: 归档                        
+    url: /archive                        
+  - name: 标签                        
+    url: /tags                        
 
 # Pagination
-paginate: 8
+paginate: 8                
 
 excerpt_separator: <!-- more -->
 
 # Includes an icon in the footer for each username you enter
-footer-links:
+footer-links:        
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
-  dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: llong87@163.com
-  facebook:
-  flickr:
-  github: lemonchann 
+  dribbble:        
+  zhihu:       
+  email: tutu2255@proton.me    
+  facebook:    
+  flickr:    
+  github:      
   googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:
-  linkedin:
+  instagram:    
+  linkedin:    
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
